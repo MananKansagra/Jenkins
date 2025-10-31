@@ -1,2 +1,3 @@
 #!bin/bash
-echo "say hello jenkins"
+Name="manan"
+echo "say hello $Name from  jenkins"
